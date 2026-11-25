@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="durationShort">#2E7D32</color>   <!-- green: up to 1 day -->
+    <color name="durationMedium">#F9A825</color>  <!-- amber: up to 1 week -->
+    <color name="durationLong">#C62828</color>    <!-- red: over 1 week -->
+    <color name="durationUnknown">#9E9E9E</color> <!-- grey: no end time -->
+</resources>
